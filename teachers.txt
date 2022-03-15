@@ -1,0 +1,6 @@
+99	ppp
+67	ccc
+45	yyy
+34	uuu
+22	kkk
+12	hhh

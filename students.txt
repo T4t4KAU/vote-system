@@ -1,0 +1,8 @@
+88	LLL	MKU
+31	PPP	MKU
+67	UO	MKU
+77	cat	MKU
+12	hwx	NIT
+22	hjk	BKU
+34	aon	QHU
+33	hjl	YYY
